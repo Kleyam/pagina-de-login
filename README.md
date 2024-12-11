@@ -25,12 +25,6 @@ Este projeto consiste em uma página de login profissional e moderna, criada uti
 
 ---
 
-## Estrutura do Projeto
-
-O projeto segue uma estrutura simples e organizada:
-
----
-
 ## Como Executar o Projeto
 
 1. Clone o repositório ou baixe os arquivos do projeto.
