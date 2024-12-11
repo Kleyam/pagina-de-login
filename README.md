@@ -1,4 +1,4 @@
-# Página de Login - HTML5 & CSS3 ![HTML5](https://img.icons8.com/?size=100&id=Yfprg8CASXbD&format=png&color=000000) 
+# Página de Login - HTML5 & CSS3 
 
 ## Visão Geral do Projeto
 
