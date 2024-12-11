@@ -35,8 +35,8 @@ Este projeto consiste em uma página de login profissional e moderna, criada uti
 
 ## Tecnologias Utilizadas
 
-- **HTML5**: Estrutura semântica e acessibilidade.
-- **CSS3**: Estilização avançada, degradês e animações.
+- ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png) **HTML5**: Estrutura semântica e acessibilidade.
+- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) **CSS3**: Estilização avançada, degradês e animações.
 
 ---
 
