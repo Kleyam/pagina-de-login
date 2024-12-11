@@ -1,5 +1,3 @@
-# pagina-de-login
-
 # Projeto Página de Login - HTML5 & CSS3
 
 ## Visão Geral do Projeto
