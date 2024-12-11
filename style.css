@@ -1,7 +1,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 
-/* Reset padrão */
 * {
     margin: 0;
     padding: 0;
@@ -9,7 +8,6 @@
     font-family: Arial, sans-serif;
 }
 
-/* Corpo */
 body {
     display: flex;
     justify-content: center;
@@ -125,7 +123,7 @@ h1 {
   gap: 20px;
 }
 
-.form-container .group {   /*PAREI AQUI*/
+.form-container .group {   
     display: flex;
     flex-direction: column; 
     gap: 2px;
@@ -194,7 +192,7 @@ h1 {
     border-radius: 6px;
   }
   
-  .form-container .form-submit-btn:hover {    /*TERMINA AQUI*/
+  .form-container .form-submit-btn:hover {    
     background-color: #fff;
     border-color: #fff;
   }
@@ -298,7 +296,6 @@ h1 {
     background-color: #a33227;
 }
 
-/* Texto abaixo */
 .final {
     text-align: center;
     margin-top: 5px;
